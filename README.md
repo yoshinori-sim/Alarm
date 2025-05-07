@@ -1,0 +1,2 @@
+# Alarm
+Freezer closed warning
